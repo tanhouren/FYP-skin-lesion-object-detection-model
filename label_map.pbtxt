@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'malignant'
+}
+
+item {
+    id: 2
+    name: 'benign'
+}
